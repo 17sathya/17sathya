@@ -47,7 +47,6 @@
   <!-- Languages -->
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Java" width="90"/>
   <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" alt="Python" width="90"/>
-  <img src="https://media.giphy.com/media/klcm8qtSNNcmJZxk9B/giphy.gif" alt="C" width="90"/>
   <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" alt="JavaScript" width="90"/>
   <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" alt="HTML" width="90"/>
   <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" alt="CSS" width="90"/>
@@ -60,7 +59,7 @@
   <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" alt="Git" width="110"/>
   <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" alt="GitHub" width="90"/>
   <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" alt="VS Code" width="90"/>
-  <img src="https://cdn.iconscout.com/icon/free/png-256/markdown-3630174-3031306.png" alt="Markdown" width="90"/>
+ 
 </p>
 
 <p align="center">
